@@ -1,2 +1,2 @@
 # CryptoArbitrage
-Simple script. 
+![](https://i.imgur.com/gTz4nas.jpeg) 
