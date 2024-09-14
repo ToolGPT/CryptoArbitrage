@@ -1,0 +1,2 @@
+# CryptoArbitrage
+Simple script. 
