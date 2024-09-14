@@ -1,0 +1,7 @@
+{
+  "coins": ["ethereum-pow", "bitcoin", "digibyte", "bitcoin-sv", "tether", "bittorrent-new", "klaytn", "nem", "bitcoin-gold"],
+  "exchanges-filter": "false",
+  "exchanges": ["KuCoin", "Huobi", "poloniex", "latoken", "Dcoin"],
+  "investment": "10",
+  "currency": "USDT"
+}
